@@ -66,7 +66,9 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jose-JohnEm&show_icons=true&hide_border=true" />
+<img align="left" alt="José's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jose-JohnEm&show_icons=true&hide_border=true&theme=radical" />
+
+<img align="left" alt="José's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-JohnEm&langs_count=7&theme=radical&hide_border=true" />
 
 [website]: https://jonathan-emmanuel-jose.herokuapp.com/
 [instagram]: https://www.instagram.com/jonathan.emmanuel.jose/
