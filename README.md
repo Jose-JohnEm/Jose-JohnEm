@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a [Epitech](https://www.epitech.eu/en/) 3rd year student, Full-Stack & Video Game Developer !!
+## I'm a 3rd year [Epitech](https://www.epitech.eu/en/) student, Full-Stack & Video Game Developer !!
 
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with other content creators
@@ -46,7 +46,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -60,12 +60,13 @@
 
 ### 📺 My last appearances
 
-<!-- YOUTUBE:START -->
 - [⭐ My intership at CAPSIX Robotics ⭐](https://www.youtube.com/watch?v=citeeynPB8g)
 - [⭐ Epitech Photobooth Project ⭐](https://www.youtube.com/watch?v=r6AqOrY5LcQ)
 - [⭐ IONIS - Muggler Project Week ⭐](https://www.youtube.com/watch?v=H37-PgkpBO0)
-<!-- YOUTUBE:END -->
 
+---
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Jose-JohnEm&show_icons=true&hide_border=true" />
 
 [website]: https://jonathan-emmanuel-jose.herokuapp.com/
 [instagram]: https://www.instagram.com/jonathan.emmanuel.jose/
