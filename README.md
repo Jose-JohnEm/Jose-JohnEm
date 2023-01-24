@@ -2,11 +2,11 @@
 
 <br />
 
-## I'm a 3rd year [Epitech](https://www.epitech.eu/en/) student, Full-Stack & Video Game Developer !!
+## I'm a 4th year [Epitech](https://www.epitech.eu/en/) student, Full-Stack Developer !!
 
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Qwik
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals : Work on a business project
+- 🥅 2023 Goals : Work on a business project
 - ⚡ Other fact : I love to create some rap and afro music
 
 ### Connect with me:
@@ -20,6 +20,7 @@
 ---
 
 ### Frameworks:
+<img align="left" alt="NextJS" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/langfr-1920px-Nextjs-logo.svg.png" />
 <img align="left" alt="React" height="26px" src="https://www.letecode.com/storage/articles/September2021/fKFlgB6K1b9IwjcgwtGl.png" />
 <img align="left" alt="Django" height="26px" src="https://python.doctor/images/django-python.png" />
 <img align="left" alt="Qt" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/langfr-800px-Qt_logo_2016.svg.png" />
@@ -50,6 +51,7 @@
 ### Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Sonarqube" width="26px" src="https://www.troispointzero.fr/wp-content/uploads/2018/11/0.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" height="26px" src="https://marketplace.redhat.com/en-us/blog/static/3c29b422435cca2b894fb7c184c5da9d/ee604/mongoDB-enterprise-is-now-available-on-rhm%402x.png" />
 <img align="left" alt="AWS" height="26px" src="https://pbs.twimg.com/profile_images/1351580685568393216/lVp_QFmU_400x400.jpg" />
@@ -63,6 +65,8 @@
 
 ### 📺 My last appearances
 
+- [⭐ My intership at syzeSOUND ⭐](https://www.linkedin.com/feed/update/urn:li:activity:6942998309502394368?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BYy%2FAEShlSuy7gkBOuSYYNw%3D%3D)
+- [⭐ My Teacher experience ⭐](https://www.youtube.com/watch?v=LjGVi5Iww50)
 - [⭐ My intership at CAPSIX Robotics ⭐](https://www.youtube.com/watch?v=citeeynPB8g)
 - [⭐ Epitech Photobooth Project ⭐](https://www.youtube.com/watch?v=r6AqOrY5LcQ)
 - [⭐ IONIS - Muggler Project Week ⭐](https://www.youtube.com/watch?v=H37-PgkpBO0)
